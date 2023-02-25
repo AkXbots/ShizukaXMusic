@@ -2,7 +2,7 @@
 
 <h4 align="center">Shizuka A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...</h4>
 
-<p align="center"><a href="https://telegram.dog/its_star_boi"><img src="https://te.legra.ph/file/159d3f9e2d57dd02db970.jpg" width="400"></a></p>
+<p align="center"><a href="https://telegram.dog/Ronny_support_chats"><img src="https://te.legra.ph/file/159d3f9e2d57dd02db970.jpg" width="400"></a></p>
 
 <p align="center">
     <a href="https://github.com/its-star-boi/ShizukaXMusic"> <img src="https://img.shields.io/github/repo-size/its-star-boi/ShizukaXMusic?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
@@ -43,13 +43,13 @@
 <summary><b>ʙᴀsɪᴄ ᴄᴍᴅs</b></summary>
 <br>
 
-- `/play <song name>` - play song you requested
-- `/playlist` - Show now playing list
-- `/song <song name>` - download songs you want quickly
-- `/search <query>` - search videos on youtube with details
-- `/vsong <song name>` - download videos you want quickly
-- `/lyric <song name>` - lyrics scrapper
-- `/vk <song name>` - generate song without download
+- `!play <song name>` - play song you requested
+- `!playlist` - Show now playing list
+- `!song <song name>` - download songs you want quickly
+- `!search <query>` - search videos on youtube with details
+- `!vsong <song name>` - download videos you want quickly
+- `!lyric <song name>` - lyrics scrapper
+- `!vk <song name>` - generate song without download
 </details>
 
 ### Only Admin Can Exicute 🙄
@@ -58,14 +58,14 @@
 <summary><b>ᴀᴅᴍɪɴ ᴄᴍᴅs</b></summary>
 <br>
 
-- `/player` - open music player settings panel
-- `/pause` - pause song play
-- `/resume` - resume song play
-- `/skip` - play next song
-- `/end` - stop music play
-- `/ping` - check the bot ping status
-- `/auth` - authorized people to access the admin commands
-- `/deauth` - deauthorized people to access the admin commands
+- `!player` - open music player settings panel
+- `!pause` - pause song play
+- `!resume` - resume song play
+- `!skip` - play next song
+- `!end` - stop music play
+- `!ping` - check the bot ping status
+- `!auth` - authorized people to access the admin commands
+- `!deauth` - deauthorized people to access the admin commands
 </details>
 
 ### Sudo Commands 🤭
@@ -197,8 +197,8 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 <br>
 
 # ❤️ Support<
-<a href="https://telegram.dog/Star_X_Network"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://telegram.dog/Best_FriendsFor_Ever"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://telegram.dog/Ronny_support_chats"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://telegram.dog/Night_club_chatting"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 </details>
 
