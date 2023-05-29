@@ -33,8 +33,8 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GITHUB_REPO = getenv("GITHUB_REPO", "@ll_am_Ronny_ll")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ll_My_Legacy_ll")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/Ronny_Support_chat")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Xd_Bots_Updates")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/Xd_Bots_Support")
 
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "True")
 AUTO_LEAVE_ASSISTANT_TIME = int(getenv("ASSISTANT_LEAVE_TIME", "5400"))
