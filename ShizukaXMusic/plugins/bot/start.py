@@ -84,7 +84,7 @@ async def start_comm(client, message: Message, _):
                     details = stats.get(vidid)
                     title = (details["title"][:35]).title()
                     if vidid == "telegram":
-                        msg += f"🔗[ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ](https://t.me/Ronny_support_chats) ** ᴩʟᴀʏᴇᴅ {count} ᴛɪᴍᴇs**\n\n"
+                        msg += f"🔗[ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ](https://t.me/Xd_bots_Support) ** ᴩʟᴀʏᴇᴅ {count} ᴛɪᴍᴇs**\n\n"
                     else:
                         msg += f"🔗 [{title}](https://www.youtube.com/watch?v={vidid}) ** played {count} times**\n\n"
                 msg = _["ustats_2"].format(tot, tota, limit) + msg
@@ -274,9 +274,9 @@ async def welcome(client, message: Message):
 async def start(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://te.legra.ph/file/0d048443e85813227f253.jpg",
-        caption=f"""━━━━━━━━━━━━━━━━━━━━━━━━\n\n✪ ʜᴇʟʟᴏ, sʜɪᴢᴜᴋᴀ ɪs ᴡᴏʀᴋɪɴɢ ᴀɴᴅ ғᴜɴᴄᴛɪᴏɴɪɴɢ ᴘʀᴏᴘᴇʀʟʏ\n\n┏━━━━━━━━━━━━━━━━━┓\n┣★ ᴏᴡɴᴇʀ    : [sᴛᴀʀ ʙᴏɪ](https://t.me/ll_Her_Boy_ll)\n┣★ ᴜᴘᴅᴀᴛᴇs › : [sʜɪᴢᴜᴋᴀ ʜᴇʟᴘ](https://t.me/Ronny_support_chats)\n┣★ ʀᴇᴘᴏ › : [sʜɪᴢᴜᴋᴀ ʀᴇᴘᴏ](https://t.me/Ronny_support_chats)\n┗━━━━━━━━━━━━━━━━━┛\n\n💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ\nᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](https://t.me/ll_Her_Boy_ll) ᴍᴀᴋᴇ sᴜʀᴇ ᴛᴏ sᴛᴀʀ ᴏᴜʀ ᴘʀᴏᴊᴇᴄᴛ ...\n\n━━━━━━━━━━━━━━━━━━━━━━━━
+        caption=f"""━━━━━━━━━━━━━━━━━━━━━━━━\n\n✪ ʜᴇʟʟᴏ, ᴀʟɪꜱᴀ ɪs ᴡᴏʀᴋɪɴɢ ᴀɴᴅ ғᴜɴᴄᴛɪᴏɴɪɴɢ ᴘʀᴏᴘᴇʀʟʏ\n\n┏━━━━━━━━━━━━━━━━━┓\n┣★ ᴏᴡɴᴇʀ    : [sᴛᴀʀ ʙᴏɪ](https://t.me/ll_Her_Boy_ll)\n┣★ ᴜᴘᴅᴀᴛᴇs › : [sʜɪᴢᴜᴋᴀ ʜᴇʟᴘ](https://t.me/Ronny_support_chats)\n┣★ ʀᴇᴘᴏ › : [sʜɪᴢᴜᴋᴀ ʀᴇᴘᴏ](https://t.me/Ronny_support_chats)\n┗━━━━━━━━━━━━━━━━━┛\n\n💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ\nᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](https://t.me/ll_Her_Boy_ll) ᴍᴀᴋᴇ sᴜʀᴇ ᴛᴏ sᴛᴀʀ ᴏᴜʀ ᴘʀᴏᴊᴇᴄᴛ ...\n\n━━━━━━━━━━━━━━━━━━━━━━━━
 """,
         reply_markup=InlineKeyboardMarkup(
-            [[InlineKeyboardButton("🌼 sʜɪᴢᴜᴋᴀ ᴄʜᴀᴛ 💮", url=f"ttps://t.me/Night_club_chatting")]]
+            [[InlineKeyboardButton(" sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ ", url=f"ttps://t.me/Xd_bots_Support")]]
         ),
     )
